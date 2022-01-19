@@ -5,7 +5,7 @@
 ## cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
-
+        i <- NULL
 }
 
 
